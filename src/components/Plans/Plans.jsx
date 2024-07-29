@@ -14,7 +14,7 @@ const Plans = () => {
             <p className="duration">1 YEAR</p>
             <div className="price">
                 <p className='original-price'>$118</p>
-                <p className="discount-price">$59</p>
+                <p className="discount-price">$62</p>
             </div>
             <p className="discount">50% OFF!</p>
             <ul className="features">
@@ -48,7 +48,7 @@ const Plans = () => {
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
-                    <p>NBA, NHL, NFL Package</p>
+                    <p>Premier League, NBA, NHL, NFL Package</p>
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
@@ -77,7 +77,7 @@ const Plans = () => {
             <p className="duration">6 MONTHS</p>
             <div className="price">
                 <p className='original-price'>$78</p>
-                <p className="discount-price">$39</p>
+                <p className="discount-price">$38</p>
             </div>
             <p className="discount">50% OFF!</p>
             <ul className="features">
@@ -111,7 +111,7 @@ const Plans = () => {
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
-                    <p>NBA, NHL, NFL Package</p>
+                    <p> Premier League, NBA, NHL, NFL Package</p>
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
@@ -140,7 +140,7 @@ const Plans = () => {
             <p className="duration">3 MONTHS</p>
             <div className="price">
                 <p className='original-price'>$58</p>
-                <p className="discount-price">$29</p>
+                <p className="discount-price">$26</p>
             </div>
             <p className="discount">50% OFF!</p>
             <ul className="features">
@@ -174,7 +174,7 @@ const Plans = () => {
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
-                    <p>NBA, NHL, NFL Package</p>
+                    <p>Premier League, NBA, NHL, NFL Package</p>
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
@@ -203,7 +203,7 @@ const Plans = () => {
             <p className="duration">1 MONTH</p>
             <div className="price">
                 <p className='original-price'>$38</p>
-                <p className="discount-price">$19</p>
+                <p className="discount-price">$12</p>
             </div>
             <p className="discount">50% OFF!</p>
             <ul className="features">
@@ -237,7 +237,7 @@ const Plans = () => {
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>
-                    <p>NBA, NHL, NFL Package</p>
+                    <p>Premier League, NBA, NHL, NFL Package</p>
                 </div>
                 <div className='feature'>
                     <FaCheck  color='rgb(25 135 84)'/>

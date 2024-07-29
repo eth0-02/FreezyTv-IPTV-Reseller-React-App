@@ -28,8 +28,8 @@ const Footer = () => {
             </div>
         </div>
         <div className='footer-copyright'>
-            <p className='footer-copyright-text'>Copyright © 2022 <strong style={{color: 'white'}}>Pixsmartv</strong> . All Rights Reserved.</p>
-            <a className='contact-email' href='#'>contact@pixsmartv.com</a>
+            <p className='footer-copyright-text'>Copyright © 202 <strong style={{color: 'white'}}>Pixsmartv</strong> . All Rights Reserved.</p>
+            <a className='contact-email' href='#'>contact@freezytv.com</a>
             <img className='footer-payments' src={payimg} alt='Payment Methods'></img>
         </div>
     </footer>
