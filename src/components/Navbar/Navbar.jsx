@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react'
-import pixlogowhite from '../../assets/pixsmartv.png'
+import pixlogowhite from '../../assets/freezytv.png'
 import './Navbar.css'
 import { IoMenu } from "react-icons/io5";
 import { IoMdClose } from "react-icons/io";

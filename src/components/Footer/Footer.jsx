@@ -1,5 +1,5 @@
 import React , { useState, useEffect, useRef } from 'react'
-import pixlogowhite from '../../assets/pixsmartv.png'
+import pixlogowhite from '../../assets/freezytv.png'
 import payimg from '../../assets/pay.svg'
 import Channels from '../Channels/Channels'
 import Guide from '../Guide/Guide'
@@ -13,8 +13,8 @@ const Footer = () => {
         <Channels state={channelslist ? true : false} onclose={() => showchannelslist(!channelslist)}/>
         <Guide state={guide ? true : false} onclose={() => showguide(!guide)}/>
         <div className='about-us'>
-            <img className='footer-logo' src={pixlogowhite} alt='pixsmartv'></img>
-            <p className='about-us-description'>Pixsmartv, The Best IPTV Service, Has More Than 40,000 Satisfied Customers, Making It The Leading IPTV Provider Worldwide!</p>
+            <img className='footer-logo' src={pixlogowhite} alt='freezytv'></img>
+            <p className='about-us-description'>FreezyTv, The Best IPTV Service, Has More Than 40,000 Satisfied Customers, Making It The Leading IPTV Provider Worldwide!</p>
         </div>
         <div >
             <div className='footer-links'>
@@ -28,7 +28,7 @@ const Footer = () => {
             </div>
         </div>
         <div className='footer-copyright'>
-            <p className='footer-copyright-text'>Copyright © 202 <strong style={{color: 'white'}}>Pixsmartv</strong> . All Rights Reserved.</p>
+            <p className='footer-copyright-text'>Copyright © 2024 <strong style={{color: 'white'}}>Freezytv</strong> . All Rights Reserved.</p>
             <a className='contact-email' href='#'>contact@freezytv.com</a>
             <img className='footer-payments' src={payimg} alt='Payment Methods'></img>
         </div>
