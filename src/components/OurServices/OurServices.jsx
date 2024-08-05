@@ -40,7 +40,7 @@ const OurServices = () => {
             <div className="service-card">
                 <MdOutlineSupportAgent size="70px" color="var(--color-blue)"/>
                 <p className="service-card-title">Customer service available 24/7</p>
-                <p className="service-card-description">Our Customer Service Is Available 24/7 By E-Mail OR WhatsApp And We Will Help You In The Installation Of Your Subscription.</p>
+                <p className="service-card-description">Our Customer Service Is Available 24/7 By E-Mail OR TELEGRAM And We Will Help You In The Installation Of Your Subscription.</p>
             </div>
         </div>
     </section>

@@ -69,7 +69,7 @@ const Plans = () => {
 
             </ul>
             <div className='buy-product'>
-                <a href='#' className='order-button'>BUY NOW</a>
+                <a href='https://t.me/mellow_309' className='order-button'>BUY NOW</a>
             </div>
             <p className="instant">Instant Activation!</p>
         </div>
@@ -132,7 +132,7 @@ const Plans = () => {
 
             </ul>
             <div className='buy-product'>
-                <a href='#' className='order-button'>BUY NOW</a>
+                <a href='https://t.me/mellow_309' className='order-button'>BUY NOW</a>
             </div>
             <p className="instant">Instant Activation!</p>
         </div>
@@ -195,7 +195,7 @@ const Plans = () => {
 
             </ul>
             <div className='buy-product'>
-                <a href='#' className='order-button'>BUY NOW</a>
+                <a href='https://t.me/mellow_309' className='order-button'>BUY NOW</a>
             </div>
             <p className="instant">Instant Activation!</p>
         </div>
@@ -258,7 +258,7 @@ const Plans = () => {
 
             </ul>
             <div className='buy-product'>
-                <a href='#' className='order-button'>BUY NOW</a>
+                <a href='https://t.me/mellow_309' className='order-button'>BUY NOW</a>
             </div>
             <p className="instant">Instant Activation!</p>
         </div>

@@ -17,7 +17,7 @@ const FAQ = () => {
             <Collapsible className='faq_collapsible' toggletitle="How Will I Receive My Subscription?" toggledescription="After making a payment you’ll be contacted via email in less than 30 minutes with your logins credentials."/>
             <Collapsible className='faq_collapsible' toggletitle="Can I Cancel My Service?" toggledescription="We are not contracting with anyone and you are completely free to cancel our service at any time. Once you cancelled the service you won't be charged and the service will be ended automatically at the time when you purchase it."/>
             <h3 className="heading whatsapp">We're always here to help , Contact our support team 24/7.</h3>
-            <a href='#' className='faq_whatsapp-button'><FaWhatsapp size={20} className='whatsapp-icon' /> CONTACT US ON WHATSAPP</a>
+            <a href='#https://t.me/mellow_309' className='faq_whatsapp-button'><FaWhatsapp size={20} className='whatsapp-icon' /> CONTACT US ON WHATSAPP</a>
         </div>
     </section>
   )
