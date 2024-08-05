@@ -7,7 +7,7 @@ const DontMiss = () => {
     <section className='dontmiss-section'>
         <div className="dontmiss-flex">
             <div className="dontmiss-text">
-                <h6 className="heading">Pixsmartv</h6>
+                <h6 className="heading">Freezytv</h6>
                 <h2 className="subheading">Catch all the entertainment and the biggest sports events you love with our IPTV service!</h2>
                 <p className="description">Our provider offers all your favorite country packs, with over 22,000 channels, 120,000+ VOD titles, and even +200 adult channels. We are the number one IPTV provider, offering the most affordable pricing plans on all your devices. Say goodbye to freezing and buffering, as our advanced solutions ensure a lag-free viewing experience.</p>
                 <a href='/#pricing' className='order-button'>50% OFF - JUST FOR TODAY!</a>
